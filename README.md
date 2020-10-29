@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Another-movie/Another-movie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![ChocoDevDay](https://rahmet.object.pscloud.io/static/upload/images/segments2/1600682593_902.png)](https://github.com/chocofamilyme)
+<a><img src="https://img.shields.io/badge/javascript-1.x-red" alt="Chat"></a>
+  
