@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a><img src="https://img.shields.io/badge/javascript-1.x-red" alt="Chat"></a>
-  
-![github stats](https://github-readme-stats.vercel.app/api?username=Another-movie&show_icons=true)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Another-movie)](https://github.com/Another-movie/)
