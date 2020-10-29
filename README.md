@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 <a><img src="https://img.shields.io/badge/javascript-1.x-red" alt="Chat"></a>
   
-![github stats](https://github-readme-stats.vercel.app/api?username=Lootjs&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Another-movie&show_icons=true)
