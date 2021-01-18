@@ -25,7 +25,5 @@
 </div>
 </details>
 
-<details>
 
-</details>
 <img src="https://waifu.now.sh/sfw/hug" width="100%" alt="">
