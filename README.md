@@ -26,8 +26,6 @@
 </details>
 
 <details>
-<summary><b>My projects</b></summary>
-<hr>
 
 </details>
 <img src="https://waifu.now.sh/sfw/hug" width="100%" alt="">
