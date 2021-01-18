@@ -21,13 +21,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-800392%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/weeebdev/weeebdev/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 </div>
 </details>
