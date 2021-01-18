@@ -36,7 +36,5 @@
 <summary><b>My projects</b></summary>
 <hr>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=weeebdev&repo=waifu.pics&theme=dracula)](https://github.com/weeebdev/waifu.pics)
-
 </details>
 <img src="https://waifu.now.sh/sfw/hug" width="100%" alt="">
